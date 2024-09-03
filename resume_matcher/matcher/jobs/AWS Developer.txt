@@ -1,0 +1,24 @@
+We are seeking a skilled AWS Developer to design, implement, and maintain cloud-based solutions on the Amazon Web Services (AWS) platform. The ideal candidate will have a strong background in software development and experience with AWS services to build scalable, secure, and reliable applications. The AWS Developer will work closely with cross-functional teams to understand business requirements, design architecture, and deploy solutions that leverage AWS cloud technologies.
+
+Responsibilities:
+
+Design, develop, and deploy cloud-native applications and microservices on AWS.
+Implement and manage AWS services such as EC2, S3, Lambda, API Gateway, DynamoDB, and RDS.
+Architect scalable and resilient solutions that meet performance, security, and compliance requirements.
+Develop automation scripts and infrastructure as code using AWS CloudFormation, Terraform, or similar tools.
+Optimize application performance and cost efficiency by leveraging AWS best practices and services.
+Ensure high availability, fault tolerance, and disaster recovery capabilities in AWS deployments.
+Monitor and troubleshoot AWS resources, services, and infrastructure to identify and resolve issues.
+Collaborate with DevOps engineers, software developers, and other stakeholders to streamline CI/CD pipelines and deployment processes.
+Stay up-to-date with the latest AWS services, features, and best practices, and advocate for their adoption as appropriate.
+Qualifications:
+
+Bachelor's degree in computer science, engineering, or a related field (or equivalent work experience).
+Proven experience in software development, with a focus on cloud-based solutions.
+Strong understanding of AWS cloud architecture, services, and features.
+Proficiency in at least one programming language such as Python, Java, or Node.js.
+Hands-on experience with containerization and orchestration technologies like Docker and Kubernetes is a plus.
+Familiarity with DevOps practices and tools for continuous integration and continuous deployment (CI/CD).
+Excellent problem-solving and troubleshooting skills.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+AWS certifications such as AWS Certified Developer, AWS Certified Solutions Architect, or AWS Certified DevOps Engineer are a plus.

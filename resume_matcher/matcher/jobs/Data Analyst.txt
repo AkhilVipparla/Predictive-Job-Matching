@@ -1,0 +1,24 @@
+
+We are seeking a skilled Data Analyst to interpret data, analyze results, and provide insights to support business decision-making. The ideal candidate will have a strong analytical mindset, proficiency in data manipulation and visualization tools, and the ability to communicate findings effectively to stakeholders. The Data Analyst will work closely with cross-functional teams to gather and analyze data, identify trends and patterns, and translate data into actionable recommendations that drive business growth and operational efficiency.
+
+Responsibilities:
+
+Collect, clean, and preprocess data from various sources to ensure accuracy and consistency.
+Perform exploratory data analysis to identify trends, patterns, and relationships in the data.
+Develop and maintain reports, dashboards, and visualizations to communicate key insights and metrics to stakeholders.
+Conduct statistical analysis and hypothesis testing to validate findings and make data-driven recommendations.
+Collaborate with business stakeholders to define key performance indicators (KPIs) and metrics to track business performance.
+Identify opportunities for process improvement and optimization based on data analysis.
+Proactively monitor data quality and integrity, and implement corrective measures as needed.
+Stay up-to-date with the latest trends and technologies in data analysis, and advocate for their adoption as appropriate.
+Communicate findings and insights to technical and non-technical audiences through written reports, presentations, and data visualizations.
+Qualifications:
+
+Bachelor's degree in mathematics, statistics, computer science, economics, or a related field (or equivalent work experience).
+Proven experience as a Data Analyst or similar role, with proficiency in data analysis and visualization tools such as SQL, Python, R, Excel, Tableau, or Power BI.
+Strong analytical and problem-solving skills, with the ability to derive insights from complex datasets.
+Familiarity with statistical methods and techniques for data analysis, such as regression analysis, clustering, and time series analysis.
+Experience with data cleaning, preprocessing, and transformation techniques.
+Excellent communication and presentation skills, with the ability to communicate technical concepts to non-technical stakeholders.
+Attention to detail and accuracy, with a commitment to delivering high-quality work on time.
+Ability to work independently and in a team environment, with a proactive and collaborative approach to problem-solving.

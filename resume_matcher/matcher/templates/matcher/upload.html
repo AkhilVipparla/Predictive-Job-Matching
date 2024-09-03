@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+    <title>RTRP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+width: 2000px;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            color: #ccc;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        .about-section {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .about-section h2 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        .about-section p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+	*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-size: 1rem;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+            gap: 20px;
+            height: 100vh;
+        }
+
+        .main{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background-color: #1e3a8a;
+            color: white;
+            padding: 30px 50px;
+            border-radius: 10px;
+        }
+
+        button{
+            padding: 10px 20px;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background-color: #ffffff;
+            color: blue;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        .child{
+            display: flex;
+            justify-content: center;
+            align-items: start;
+            flex-direction: column;
+            margin-top: 20px;
+        }
+
+        input{
+            padding: 10px 20px;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background-color: white;
+            color: rgb(113, 113, 113);
+            margin-top: 10px;
+        }
+
+        .hidden{
+            display: none;
+        }
+
+        .text{
+            padding: 5px 15px;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background-color: red;
+            color: white;
+        }
+
+        textarea{
+            padding: 10px 20px;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background-color: white;
+            color: black;
+            margin-top: 10px;
+            height: 200px;
+        }
+
+        h1{
+            font-size: 2rem;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>JOB PREDICTION</h1>
+        <nav>
+            <a href="#">Home</a>
+            <!--<a href="convert">About</a> -->
+
+ 
+        </nav>
+    </header>
+    <div class="container">
+        <section class="about-section">
+            <h2>About Us</h2>
+            <p>
+Our innovative job prediction system utilizes user resumes and company skill requirements to assess job seekers' likelihood of securing a position. 
+Through natural language processing, machine learning and data science we match user skills with job listings, providing a percentage-based assessment of suitability. 
+Crucially, our approach identifies skill gaps and offers tailored recommendations for improvement, empowering users to enhance their competitiveness. 
+Continuous feedback loops refine predictive accuracy, ensuring adaptability to real-world job market dynamics. 
+By bridging skill gaps and aligning with employer requirements, our system aids job seekers in navigating the competitive job market,
+guiding them towards meaningful employment opportunities.
+
+</p>
+            
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+       
+
+    <div class="main">
+        <p id="text"></p>
+        <div class="child">
+            <label>
+                <h1>Upload Resume</h1>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="file" required>
+        <button type="submit">Upload</button>
+    </form>
+            </label>
+            
+        </div>
+        
+        <div class="child">
+            <textarea id="textarea" class="hidden" cols="35"></textarea>
+        </div>
+      
+    </div>
+</body>

@@ -1,0 +1,26 @@
+We are seeking a talented Back-end Developer to join our team and contribute to the design, development, and maintenance of server-side logic and databases for web and mobile applications. The ideal candidate will have a strong understanding of programming languages, databases, and server-side technologies to build scalable, efficient, and secure back-end systems. The Back-end Developer will collaborate with front-end developers, UX designers, and other stakeholders to deliver high-quality software solutions that meet business requirements and user needs.
+
+Responsibilities:
+
+Develop server-side logic and APIs to support front-end functionality and client-server communication.
+Write clean, efficient, and maintainable code in languages such as Python, Java, Node.js, or Ruby.
+Design and optimize database schemas and queries for performance, scalability, and reliability.
+Implement authentication, authorization, and security features to protect sensitive data and prevent unauthorized access.
+Integrate third-party services and APIs to extend application functionality and enhance user experiences.
+Collaborate with front-end developers to ensure seamless integration of back-end and front-end components.
+Work closely with QA engineers to identify and resolve bugs, performance issues, and other technical challenges.
+Participate in code reviews, design discussions, and sprint planning meetings to maintain code quality and project timelines.
+Stay up-to-date with the latest trends, technologies, and best practices in back-end development, and advocate for their adoption as appropriate.
+Qualifications:
+
+Bachelor's degree in computer science, engineering, or a related field (or equivalent work experience).
+Proven experience in back-end development, with a focus on web and/or mobile applications.
+Strong proficiency in at least one programming language such as Python, Java, Node.js, or Ruby.
+Experience with web frameworks such as Django, Flask, Spring Boot, Express.js, or Ruby on Rails.
+Knowledge of database systems such as MySQL, PostgreSQL, MongoDB, or Redis.
+Familiarity with RESTful APIs, microservices architecture, and cloud computing platforms (e.g., AWS, Azure, Google Cloud).
+Understanding of software development methodologies such as Agile or Scrum.
+Excellent problem-solving and troubleshooting skills.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+
+

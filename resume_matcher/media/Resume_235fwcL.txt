@@ -1,0 +1,88 @@
+‭Akhil Vipparla‬
+I‭ am a third-year Computer Science student looking for an‬
+‭internship where I can use my programming skills and learn more‬
+‭about software development. I want to work on real projects, be part‬
+‭of a team, and gain practical experience in coding and‬
+‭problem-solving.‬
+
+‭EXPERIENCE‬
+
+‭Advance Academic Center‬
+‭Member | NOV 2023‬
+‭●‬
+
+‭Managing Database of club’s information and conducting‬
+‭events in college.‬
+
+‭●‬
+
+‭PROJECTS‬
+
+‭Movie Recommendation System‬
+‭The system reduces users' search time by up to 80% by‬
+‭recommending movies with a 70-80% accuracy rate, based on‬
+‭content attributes of films they have liked.‬
+‭●‬
+
+‭The project uses content-based filtering to create a‬
+‭recommendation system that can provide movie‬
+‭recommendations based on the attributes of films that users‬
+‭have already enjoyed or expressed interest in.‬
+
+‭Resume-Matcher‬
+‭●‬
+
+‭Developed a job prediction system that improves job match‬
+‭accuracy by 60-75% by analyzing user resumes and company‬
+‭skill requirements.‬
+
+‭●‬
+
+‭Developed a system utilizing natural language processing,‬
+‭machine learning and data science to match skills with job‬
+‭listings, providing a percentage-based assessment of suitability‬
+‭.‬
+
+‭Random YouTube Video Generator‬
+‭●‬
+
+‭Generates and displays a random YouTube video based on a‬
+‭specified or random search query.‬
+
+‭●‬
+
+‭GITHUB‬
+
+‭SKILLS‬
+
+‭●‬ ‭Python‬
+‭●‬ ‭JAVA‬
+‭●‬ ‭C‬
+‭●‬ ‭HTML‬
+‭●‬ ‭MySQL, PostgreSQL‬
+
+‭Supported in organizing a project expo and a successful 2-day‬
+‭event with multiple workshops, a codeathon and an ideathon.‬
+
+‭●‬
+
+‭ khil.vipparla@gmail.com‬
+a
+‭9491055289‬
+
+‭This project utilizes the YouTube Data API to fetch a list of‬
+‭videos based on a user-specified search query.‬
+
+‭EDUCATION‬
+
+‭ okaraju Rangaraju‬
+G
+‭Institute of‬
+‭Engineering &‬
+‭Technology‬
+‭ achelor of Technology‬
+B
+‭in Computer Science‬
+‭and Engineering‬
+
+
